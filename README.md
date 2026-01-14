@@ -1,5 +1,7 @@
 # Gmail → Google Sheets Automation
 
+Full Name: Aditya Kushwaha
+
 ## Overview
 
 Small, safe Python tool that idempotently syncs unread Gmail Inbox messages into a Google Sheet, preventing duplicates by persisting `messageId`s and only marking messages read after successful persistence. It is auditable: rows are appended to an `Emails` sheet and processed `messageId`s are recorded in a `Processed` sheet.
