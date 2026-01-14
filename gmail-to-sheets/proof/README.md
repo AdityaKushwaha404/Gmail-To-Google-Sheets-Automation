@@ -162,4 +162,4 @@ The artifacts in this directory prove that the application:
 - Marks messages as READ only after successful persistence
 - Is safe to run repeatedly without reprocessing the same emails
 
-All functional and non-functional assignment requirements are satisfied.
+All functional and non-functional assignment requirements are satisfied..
